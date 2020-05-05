@@ -1,0 +1,15 @@
+.idea/*
+.git/*
+.project
+.metadata/*
+.settings/*
+backup/*
+data/*
+RemoteSystemsTempFiles/*
+.pydevproject
+*.xls
+*.xlsx
+*.msi
+*.exe
+*.docx
+logs/*
